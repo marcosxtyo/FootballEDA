@@ -1,0 +1,8 @@
+https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017
+https://en.wikipedia.org/wiki/World_Football_Elo_Ratings
+https://en.wikipedia.org/wiki/List_of_men%27s_national_association_football_teams
+https://es.wikipedia.org/wiki/Primera_Guerra_Mundial
+https://es.wikipedia.org/wiki/Segunda_Guerra_Mundial
+https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_San_Marino
+https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Tahit%C3%AD
+https://es.wikipedia.org/wiki/F%C3%BAtbol_masculino_en_los_Juegos_del_Pac%C3%ADfico
